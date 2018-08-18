@@ -1,0 +1,29 @@
+body {
+  background-color: forestgreen;
+  text-align: center;
+}
+.title {
+  background-color: navy;
+  color: forestgreen;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  display: block;
+  font-size: 20px;
+}
+a {
+  display: block;
+}
+div {
+  color: navy;
+  border-color: navy;
+  border: 3px solid;
+  display: inline-block;
+  width: 200px;
+  margin-bottom: 20px;
+}
+h1 {
+  color: navy;
+}
+.teammates {
+  padding: 5px;
+}
